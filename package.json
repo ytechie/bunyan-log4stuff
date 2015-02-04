@@ -1,0 +1,26 @@
+{
+  "author": "Jason Young",
+  "name": "bunyan-log4stuff",
+  "description": "A Bunyan transport that logs to Log4Stuff, the real-time log display",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/ytechie/bunyan-log4stuff"
+  },
+  "main": "./lib/log4stuff",
+  "keywords": [
+    "log4stuff",
+    "bunyan",
+    "transport"
+  ],
+  "bugs": {
+    "url": "https://github.com/ytechie/bunyan-log4stuff/issues",
+    "email": "jason@ytechie.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.3.3"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
